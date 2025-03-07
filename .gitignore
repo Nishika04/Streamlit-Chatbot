@@ -1,0 +1,3 @@
+.env
+__pycache__/
+streamlit-chatbot/  # If you have a virtual environment inside the project
